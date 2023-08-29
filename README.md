@@ -19,7 +19,7 @@ Open a terminal window and navigate to the directory containing the `docker-comp
 Run the following command to start the services:
 
 ```bash
-docker compose up -d --builld
+docker compose up -d --build
 ```
 
 ## Accessing Kong and Konga
